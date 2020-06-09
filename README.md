@@ -6,3 +6,4 @@ The repository contains the watson assistant skill, node-red flow, cloud functio
 
 In this bot if the customer asks a question about the operation of the device, it responds by taking the important information from the manual uploaded as a dataset to train it.
 
+
